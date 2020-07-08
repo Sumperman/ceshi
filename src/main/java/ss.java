@@ -4,5 +4,6 @@ public class ss {
         boolean matches = s.matches("^[0-9]*$");
         System.out.println(matches);
 		System.out.println(matches);
+        System.out.println("xxx");
 	}
 }
